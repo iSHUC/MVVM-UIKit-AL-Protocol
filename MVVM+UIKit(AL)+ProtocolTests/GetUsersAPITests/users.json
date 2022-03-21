@@ -1,0 +1,25 @@
+[
+  {
+    "id": 123,
+    "name": "Test",
+    "username": "Test Username",
+    "email": "Test@test.com",
+    "address": {
+      "street": "Test Street",
+      "suite": "Test Suite",
+      "city": "Test City",
+      "zipcode": "123456",
+      "geo": {
+        "lat": "12345.12345",
+        "lng": "12345.12345"
+      }
+    },
+    "phone": "123456",
+    "website": "www.test.com",
+    "company": {
+      "name": "Test Company",
+      "catchPhrase": "Test Catch Phrase",
+      "bs": "Test BS"
+    }
+  }
+]
